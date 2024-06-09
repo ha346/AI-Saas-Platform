@@ -1,7 +1,7 @@
 # Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe 
 
 
-This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023.
+This is a repository to develop a software as a service (SaaS) platform that leverages advanced Artificial Intelligence (AI) to generate code, images, videos, music and conversations. The platform will cater to a wide range of users, including developers, designers, content creators and businesses, providing them with tools to automate and enhance development processes.
 
 Features:
 
